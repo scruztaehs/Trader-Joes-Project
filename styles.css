@@ -1,0 +1,96 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 40px;
+    background-color: #D10E00;
+    font-weight: 800;
+    padding: 0 20px;
+    border: 5px solid #F2A202;
+    border-radius: 5px;
+    font-family: 'Coiny', cursive;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.start-button {
+    height: 40px;
+}
+
+/* Check out `display:none`. What do you think it does?*/
+.taste {
+    display: none;
+    height: 400px;
+    width: 450px;
+}
+
+
+h1 {
+    font-size: 40px;
+    color: black;
+}
+
+.two-yes{
+    display:none;
+}
+
+.two-no{
+    display:none;
+}
+
+.word{
+    color: #CA2F2C;
+    background-color: #D4BFA7;
+}
+
+.endyes{
+    display:none;
+}
+
+.endno{
+    display:none;
+}
+
+.yesb{
+   color: #F25602;  
+}
+
+.nob{
+    color: #FF0000;
+}
+.nob2{
+    color: #D4A99F;
+}
+
+.yesb2{
+   color: #F25602;  
+}
+
+.produce{
+    height: 350px;
+    width: 450px;
+}
+
+.nofood{
+    display:none;
+}
+
+.endno{
+    background-color: #D4BFA7;
+}
